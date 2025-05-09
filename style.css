@@ -1,1 +1,149 @@
+body {
+    margin-top: 0px;
+    font-family: sans-serif;
+    background-color: #e7e7e7;
+}
 
+h1 {
+    text-align: center;
+    color: black;
+    margin-top: 0px;
+    font-family: sans-serif;
+}
+
+.logo {
+    height: 250px;
+     width: 500px
+}
+
+header {
+    background-color: #e7e7e7;
+    padding-bottom: 15px;
+    padding-left: px ;
+    padding-right: ;
+}
+
+nav a {
+    text-decoration: none;
+    color: #b4b4b4;
+    border-radius: 15px;
+    font-size: 25px;
+    margin-left: 20px;
+    background-color: black;
+    padding: 7px
+    
+}
+
+nav {
+    text-align:center;
+}
+
+.poch {
+    border-radius: 15px black;
+    background-color: #cbcbcb ;
+    color: black
+
+}
+
+main p {
+    font-size: 23px;
+}
+
+main img {
+    height: 200px;
+    width: 150px;
+    text-align: left;
+    margin-left: 40px;
+    border: 3px solid;
+}
+
+main {
+    border-radius: 30px;
+    border: 5px solid grey;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: white;
+}
+
+.p123 {
+    font-size: 20px;
+    margin-top: 0px;
+    text-align: left;
+    margin-left: 3px;
+}
+
+main {
+    border-radius: 30px;
+    border: 5px solid grey;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.p1234 {
+        font-size: 20px;
+    margin-top: 0px;
+    text-align: left;
+    margin-left: 3px;
+    border-bottom: 5px dashed black;
+}
+
+.prokomp {
+    font-size: 23px;
+}
+
+.prokomp2 {
+    font-size: 17px;
+}
+
+.photowiki {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    margin-left: 300px;
+    border: 3px solid;
+    margin-top: 1px
+}
+
+.iakstvoriti {
+    font-size: 25px;
+    text-align: center;
+    margin-left: 270px;
+    margin-top: 10px;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: grey;
+    padding: 5px;
+    font-family: verdana;
+}
+
+.h2stvoriti {
+    border-top: 5px dashed black;
+    padding-top: 10px;
+}
+
+.h2pytania {
+    border-top: 5px dashed black;
+    padding-top: 10px;
+}
+
+footer {
+    border-radius: 30px;
+    border: 5px solid black;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.h2footer {
+    text-align:center;
+}
+
+.online {
+    font-size: 20px;
+}
+
+footer img {
+    width: 30px;
+    height: 34px;
+}
